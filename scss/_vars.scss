@@ -1,0 +1,17 @@
+// Colors
+$primary-color: #0E1731;
+$primary-color-light: lighten($color: $primary-color, $amount: 85%);
+$primary-color-dark: darken($color: $primary-color, $amount: 3%);
+$divider-color: #D0D5E4;
+
+// Font weights
+$normal: 400;
+$bold: 700;
+
+// Font sizes
+$heading-lg: 52px;
+$heading-md: 36px;
+$heading-sm: 28px;
+
+// Shadows
+$outline-shadow: $primary-color 0 0 0 2px;
